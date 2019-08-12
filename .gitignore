@@ -2,6 +2,8 @@
 
 # compiled output
 /dist
+# Cordova dist folder
+/www
 /tmp
 /out-tsc
 # Only exists if Bazel was run
